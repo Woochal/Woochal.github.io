@@ -7,4 +7,4 @@ tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/astronaut.jpeg
 ---
 
-Coo Coo Sum Chicken Shall We? '<W.C Park>'
+Coo Coo Sum Chicken Shall We? &lt;W.C Park&gt;
