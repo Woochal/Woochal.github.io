@@ -4,21 +4,21 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Woochal"
 description: > # this means to ignore newlines until "email:"
    A Jekyll theme - Medium inspired
 
-email: a-mail@mail.mail
+email: Woochal@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/wc_logo.jpeg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/astronaut.png"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Woochal Park'
+author: 'Woochal Park'
+author_image: "/assets/images/smile.jpeg"
 
 paginate:	5
 
