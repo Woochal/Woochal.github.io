@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2nd Colony Conquered!"
+title:  "2023 OSSL Finish!"
 date:   2023-04-28 19:33:25
 categories: blog post
 tags: featured
