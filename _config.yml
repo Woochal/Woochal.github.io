@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Woochal"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Welcome to W.C Universe - 2nd Colony
 
 email: Woochal@gmail.com
 #blog logo
@@ -22,22 +22,22 @@ author_image: "/assets/images/smile.jpeg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://chat.openai.com/" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@Woochal'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+#disqus: Woochal
 
 #google_analytics: UA-XXXXX-X
 
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
+    url:	https://www.youtube.com/watch?v=VdeK_VsG9U0&ab_channel=AOMGOFFICIAL
+    desc: He He
+    share_url: https://www.youtube.com/watch?v=VdeK_VsG9U0&ab_channel=AOMGOFFICIAL
     share_title: ?text=
     share_link: "&amp;url="
 
@@ -49,7 +49,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/Woochal
     desc:	Fork me on github
     share_url:
     share_title:
